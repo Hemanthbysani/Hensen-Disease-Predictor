@@ -1,0 +1,26 @@
+Features list:
+	1)Skin lesions/skin smear with varying pigmentation
+	2)Flat, raised and nodules on skin
+	3)Loss of sensation like temperature or pain in skin
+	4)Muscle weakness
+	5)Numbness in hands,legs and arms
+	6)Burning/pins and needles in feet and hands
+	7)Disfigurement
+	8)Hair loss
+	9)Nerve damage
+	10)Glaucoma
+	11)ED
+	12)Infertility
+	13)Kidney failure
+	14)Iritis
+	15)Chronic nasal bleed
+	16)Location
+	17)Age
+	18)Gender
+	19)Poverty rate
+	20)Average temperature of that location
+	21)Previous ailments
+	22)Family isses(Genetic)
+	23)Lifestyle
+Features for greater weight:
+	1) Biopsy test positive/negative
